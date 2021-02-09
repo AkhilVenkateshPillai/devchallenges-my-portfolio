@@ -152,7 +152,7 @@ export default function App() {
             <h1>Experience</h1>
 
             <div className="exp-container">
-              <img src="/images/zoho.jpg" />
+              <img src="/images/zoho.png" />
 
               <div className="exp-content">
                 <p>Feb 2018 - current</p>
